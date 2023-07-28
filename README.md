@@ -1,6 +1,5 @@
 :books: Sprign Boot Practice</u> Repo
 ---
-***
 
 ### :blush: 독학 기술스택 정리
 
