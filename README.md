@@ -8,8 +8,8 @@
 | 미상 | React+ SpringBoot |       |
 | 미상 | WebSocket|       |
 |미상 | SpringSecurity |       |
-| 23-07-28| SpringAOP |       |
-| 23-07-28| Junit |       |
+| 23-07-28| SpringAOP | [AOP기초](https://blog.naver.com/wocjf0513/223168323558)     |
+| 23-07-28| Junit |  [Junit기초](https://blog.naver.com/wocjf0513/223168326936)     |
 
 
 
